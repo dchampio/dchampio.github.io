@@ -16,6 +16,8 @@ An experimental standalone version of the calculator named `factoriocalc`, which
 
 The utility for dumping datasets from the game, as well as assembling the sprite sheets, is called `factoriodump`, and may be found in the [factorio-tools](https://github.com/KirkMcDonald/factorio-tools) repository.
 
+An alternative for dumping datasets from the game can be found here: https://bitbucket.org/hhrhhr/factorio-tools-lua/src/master/
+
 ## Support the calculator
 
 Please consider donating to [my Patreon campaign](https://www.patreon.com/kirkmcdonald). Any amount helps. And thank you!
